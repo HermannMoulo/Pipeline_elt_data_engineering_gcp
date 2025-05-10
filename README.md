@@ -1,4 +1,4 @@
-# Pipeline ELT complet pour l'ingestion, la transformation et l'analyse des données des taxis verts de NYC, avec modélisation ML dans BigQuery.
+# Pipeline ELT complet pour l'ingestion, la transformation et l'analyse des données des taxis jaunes de NYC, avec modélisation ML dans BigQuery.
 
 Projet réalisé dans le cadre d'une formation sur Udemy Google Cloud Platform pour Data Engineers : Projet pratique
 Les données utilisées sont des fichiers parquet de taxis jaunes de New York City à partir du site https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page. 
