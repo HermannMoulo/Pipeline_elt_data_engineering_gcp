@@ -29,7 +29,3 @@ nyc_yellow_taxis_tips/
 ├── 📜 README.md                          # Documentation
 └── 📜 requirements.txt                   # Dépendances Python
 
-
-## 2.
-<img width="717" alt="Img" src="https://github.com/user-attachments/assets/ffd99763-12c3-417f-a567-d03a3760b953" />
-
